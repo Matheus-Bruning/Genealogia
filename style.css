@@ -1,0 +1,15 @@
+body{
+    max-height: 70%;
+}
+.imagem{
+    max-width: 98vw;
+    min-height: 90vh;
+}
+.diva{
+    min-height: 50px;
+    min-width: 98vw;
+    background-color: rgba(154, 219, 55, 0.603);
+}
+.divo{
+    text-align: center;
+}
